@@ -8,17 +8,4 @@
 - [Major League Hacking Fellow](https://dev.to/kunal/open-source-best-practices-mlh-fellowship-experience-43ee) - Contributed to Open Source projects written in JavaScript with a focus on the React ecosystem, & added new features in [Facebook's Jest](https://github.com/facebook/jest).
 - [Google Code-in Mentor](https://drive.google.com/file/d/1qHz5857X803hgwsrXFLqW8gPwMpZeqQH/view) (Red Hat Middleware) for [Kubernetes Java client](https://github.com/fabric8io/kubernetes-client), Web & Middleware technologies.
 - [Google Summer of Code Student](https://drive.google.com/file/d/13mp8w7dk2YWdvrPvg0gmCMxErgUbUza4/view?usp=sharing) Developer (Red Hat Middleware) - Worked on [fabric8io-Kubernetes Java client](https://github.com/fabric8io/kubernetes-client) for handling [Kubernetes](https://kubernetes.io) & [OpenShift](https://www.openshift.com) clusters.
-- TA & Instructor at [Coding Blocks](https://codingblocks.com) for Java, Python, Data Science & Machine Learning.
-- Python Mentor ([AnitaB.org](https://drive.google.com/file/d/1XBpBcEysVfEaJu2RY13pubkPu3AN4EwW/view?usp=sharing)) - Conducted doubt sessions & masterclasses for a group of **200+** students.
-- Instructor at workshops conducted by '[CodeChef for Schools](https://drive.google.com/open?id=1-gbv21BN66dY0K88pd8ir69VQ0C8ovUU)' for Competitive Programming.
-- [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted workshops & webinars on DevOps, Open Source, Cloud, ML, Web Dev, etc.
 
-### Honors & Awards 🏅
-- Received 1 in 550 rare [Community Hero badger](https://www.microsoft.com/skills/azureheroes) from Microsoft for organising meetups, conferences, sharing content and being an active member of the community.
-- Selected as 1 of 500 recipients for the [Nutanix Hybrid Cloud Scholarship Program](https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program) designed to upskill professionals interested in using emerging cloud technologies to enhance their organization's IT infrastructure.
-- Selected as a recipient for the [Linux Foundation Training (LiFT) Scholarship](https://www.linuxfoundation.org/about/diversity-inclusiveness/lift-scholarships/) in the Developer Do-Gooders category.
-- Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/), [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) in 2019 & 2020.
-
-![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal-kushwaha&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
